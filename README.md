@@ -13,6 +13,10 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * Incluye ejemplos en Windows, Linux y Mac
 * Disponible para todas las edades
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+* Creado por Juan
+>>>>>>> 6c53c95 (creditos a mi)
 
 =======
 * Creado por Juan
